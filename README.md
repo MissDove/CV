@@ -2,19 +2,33 @@
 
 [SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a female Full Stack Developer/Software Engineer in training, who had an amazing opportunity to immerse herself into the world of coding through Makers Academy's 16-week programming course.
+
+Since I was at school, I have always enjoyed mathematics and other science subjects. At the same time I liked drawing and being creative. I have chosen to study Engineering Product Design at London South Bank University, as it was a perfect course for me to combine all of those interests. After graduating from LSBU, I progressed to MA Design: Product & Space at Kingston University, where I further developed my portfolio.
+
+Following my graduation from Kingston University, I got a chance to work for a large engineering, procurement and construction company. I initially worked on a short-term refinery project as a Translator (my native language is Polish), but as I have been very interested in all aspects of the project and due to my science and engineering background, I have been offered a permanent position with the company as a Project Engineer.
+For over two years, I have worked in different world locations (UK, France, Israel), where I have been managing and planning parts of larger mechanical projects. I absolutely enjoyed my time working in big teams of people with different skills and knowledge, however it has involved being away from home for extended periods of time.
+
+Throughout my two degrees, I have acquired lots of design skills and as the world of product design is shifting rapidly towards service and interaction design, I am making my personal shift into the world of coding. I am hoping to make a difference by developing and designing solutions which will help people improve and change their lives.
 
 ## SKILLS
 
-#### This Skill
+#### Analitycal
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I like order and analysis of technical subjects, I have an eye for detail and an analytical mind. I also enjoy working in teams, bringing creativity to the problem solving process. I am always very keen to learn new things.
 
-- Experience
-- Achievements
-- Evidence
+#### Communication
 
-#### Another Skill
+#### Fast-Learner
+
+I am always very keen to learn new things.
+
+#### Languages
+
+I speak fluent English and Polish is my first language.
+
+#### Problem-Solving
+
 
 ## EDUCATION
 
@@ -71,8 +85,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## INTERESTS
 
+- Cycling - on Brompton on daily basis and on my Electra Loft Hybrid Bike at the weekends
+- Swimming - usually in my local swimming pool, desirably in the ocean
+- Walking/Hiking - whenever possible as long as it is outside
+- Love reading - I own too many books
+
 ## NETWORKS
 <p align="center">
+
 <a href="https://twitter.com/Go_Aga">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
 
