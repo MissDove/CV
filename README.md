@@ -1,6 +1,6 @@
 ## Agata Golebiewska
 
-[SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
+[PROJECTS](#projects) | [SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
 
 I am a female Full Stack Developer/Software Engineer in training, who had an amazing opportunity to immerse herself into the world of coding through Makers Academy's 16-week programming course.
 
@@ -10,6 +10,14 @@ Following my graduation from Kingston University, I got a chance to work for a l
 For over two years, I have worked in different world locations (UK, France, Israel), where I have been managing and planning parts of larger mechanical projects. I absolutely enjoyed my time working in big teams of people with different skills and knowledge, however it has involved being away from home for extended periods of time.
 
 Throughout my two degrees, I have acquired lots of design skills and as the world of product design is shifting rapidly towards service and interaction design, I am making my personal shift into the world of coding. I am hoping to make a difference by developing and designing solutions which will help people improve and change their lives.
+
+## PROJECTS
+
+| Project       | Summary       | Technologies  | Testing |
+| ------------- |---------------| --------------|---------|
+| 1. Vapor B'n'B ([Github](https://github.com/edpe/vapor-bnb))| Group project to recreate AirBnb website, this time with VaporWave theme. | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara, Coveralls |
+| 2. Notepad ([Github](https://github.com/lewmoore/notepad))| Notepad application written and TDD'd in OO Javascript. Created own testing framework. | JavaScript, HTML/CSS  | created testing framework |
+| 3. Picogram ([Github](https://github.com/MissDove/Picogram)) | My very own Instagram! | Ruby, Ruby on Rails, HTML/CSS | RSpec, Capybara |
 
 ## SKILLS
 
