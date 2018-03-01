@@ -1,10 +1,10 @@
 ## Agata Golebiewska
 
-[SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests)
+[SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
+## SKILLS
 
 #### This Skill
 
@@ -16,7 +16,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Another Skill
 
-## Education
+## EDUCATION
 
 #### Makers Academy (December 2017 to March 2018)
 
@@ -49,7 +49,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   Computing, Engineering Materials, Engineering Science, Digital Electronics, Electrical Fundamentals,
   Professional Studies for Engineers
 
-## Experience
+## EXPERIENCE
 
 **Cromocon** London (December 2016 - November 2017) *Designer & Technical Advisor*  
 
@@ -69,4 +69,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Age Concern** Raleigh House, New Malden (October 2011 - December 2011) *Volunteer*
 
-## Interests
+## INTERESTS
+
+## NETWORKS
+<p align="center">
+<a href="https://twitter.com/Go_Aga">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/agata-golebiewska-0995951a/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</p>
