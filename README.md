@@ -15,7 +15,7 @@ Throughout my two degrees, I have acquired lots of design skills and as the worl
 
 #### Analitycal
 
-I like order and analysis of technical subjects, I have an eye for detail and an analytical mind. I also enjoy working in teams, bringing creativity to the problem solving process. I am always very keen to learn new things.
+I like order and analysis of technical subjects, I have an eye for detail and an analytical mind.
 
 #### Communication
 
@@ -29,6 +29,10 @@ I speak fluent English and Polish is my first language.
 
 #### Problem-Solving
 
+#### Team-Player
+
+
+
 
 ## EDUCATION
 
@@ -36,9 +40,11 @@ I speak fluent English and Polish is my first language.
 
 - Collaboration through pair programming
 - Object-oriented programming
-- TDD
+- TDD & BDD
 - Ruby
 - RSpec
+- Capybara
+- Sinatra
 
 
 #### Kingston University (October 2011 - September 2013)
