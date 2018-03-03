@@ -1,6 +1,6 @@
 ## Agata Golebiewska
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
 
 I am a female Full Stack Developer/Software Engineer in training, who had an amazing opportunity to immerse herself into the world of coding through Makers Academy's 16-week programming course.
 
