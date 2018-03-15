@@ -22,7 +22,7 @@ Throughout my two degrees, I have acquired an array of design skills and as the 
 
 ## SKILLS
 
-#### Analitycal
+#### Analytical
 
 I like order and analysis of technical subjects. I have an enquiring mind.
 
@@ -32,13 +32,15 @@ I have been told I am a good listener. I have good verbal and written communicat
 
 #### Fast-Learner
 
-I am always very keen to learn new things. 
+I am always very keen to learn new things. During my 12-week Makers Academy course I learnt Ruby, RSpec, basics of JavaScript, Elixir and Phoenix.
 
 #### Languages
 
 I speak fluent English and Polish is my first language.
 
 #### Problem-Solving
+
+My design philosophy in regards to problem-solving is clean code, 'less is more' and keep it as simple as possible.
 
 #### Team-Player
 
