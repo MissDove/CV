@@ -19,6 +19,8 @@ Throughout my two degrees, I have acquired an array of design skills and as the 
 | 1. Vapor B'n'B ([Github](https://github.com/edpe/vapor-bnb))| Group project to recreate AirBnb website, this time with VaporWave theme. | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara, Coveralls |
 | 2. Notepad ([Github](https://github.com/lewmoore/notepad))| Notepad application written and TDD'd in OO Javascript. Created own testing framework. | JavaScript, HTML/CSS  | created testing framework |
 | 3. Picogram ([Github](https://github.com/MissDove/Picogram)) | My very own Instagram! | Ruby, Ruby on Rails, HTML/CSS | RSpec, Capybara |
+| 4. gifsearch ([Github](https://github.com/MissDove/gif-search)) | Web app for searching gifs | React, HTML/CSS | ToBeTested |
+| 5. PickABook ([Github](https://github.com/MissDove/pick_a_book_v2)) | Book sharing app | Elixir, Phoenix, React | ExUnit, Enzyme, Jest |
 
 ## SKILLS
 
