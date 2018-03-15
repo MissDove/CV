@@ -24,13 +24,15 @@ Throughout my two degrees, I have acquired an array of design skills and as the 
 
 #### Analitycal
 
-I like order and analysis of technical subjects, I have an eye for detail and an analytical mind.
+I like order and analysis of technical subjects. I have an enquiring mind.
 
 #### Communication
 
+I have been told I am a good listener. I have good verbal and written communication skills. I have made many formal presentations, both during my time at the university and work.
+
 #### Fast-Learner
 
-I am always very keen to learn new things.
+I am always very keen to learn new things. 
 
 #### Languages
 
@@ -39,6 +41,8 @@ I speak fluent English and Polish is my first language.
 #### Problem-Solving
 
 #### Team-Player
+
+During my job at Doosan Babcock, I had to cooperate with many engineers and communicate with the Client on a daily basis. I have really enjoyed it and I consider myself to be an empathetic team member.
 
 
 
