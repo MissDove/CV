@@ -2,7 +2,7 @@
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
 
-I am a female Full Stack Developer/Software Engineer in training, who has had an amazing opportunity to immerse myself in the world of coding through Makers Academy's 16-week programming course.
+I am a female Front-End Developer currently working at The Telegraph and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018.. During the course, I had a chance to immerse myself fully into the world of coding.
 
 Since I was at school, I have always enjoyed mathematics and sciences. At the same time I liked drawing and being creative. I have chosen to study BSc(Hons) Engineering Product Design at London South Bank University, as it was a perfect course for me to combine all of those interests. After graduating from LSBU, I progressed to MA Design: Product & Space at Kingston University, where I further developed my portfolio.
 
@@ -14,13 +14,13 @@ Throughout my two degrees, I have acquired an array of design skills and as the 
 
 ## PROJECTS
 
-| Project       | Summary       | Technologies  | Testing |
-| ------------- |---------------| --------------|---------|
-| Vapor B'n'B ([Github](https://github.com/edpe/vapor-bnb))| Group project to recreate AirBnb website, this time with VaporWave theme. | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara, Coveralls |
-| Notepad ([Github](https://github.com/lewmoore/notepad))| Notepad application written and TDD'd in OO Javascript. Created own testing framework. | JavaScript, HTML/CSS  | Created testing framework |
-| Picogram ([Github](https://github.com/MissDove/Picogram)) | My very own Instagram! | Ruby, Ruby on Rails, HTML/CSS | RSpec, Capybara |
-| gifsearch ([Github](https://github.com/MissDove/gif-search)) | Web app for searching gifs. | React, HTML/CSS | ToBeTested |
-| PickABook ([Github](https://github.com/MissDove/pick_a_book_v2)) | Final group project at Makers Academy to create a web app for swapping books. | Elixir, Phoenix, React | ExUnit, Enzyme, Jest |
+| Project                                                          | Summary                                                                                | Technologies                                                                | Testing                    |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------- |
+| Vapor B'n'B ([Github](https://github.com/edpe/vapor-bnb))        | Group project to recreate AirBnb website, this time with VaporWave theme.              | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara, Coveralls |
+| Notepad ([Github](https://github.com/lewmoore/notepad))          | Notepad application written and TDD'd in OO Javascript. Created own testing framework. | JavaScript, HTML/CSS                                                        | Created testing framework  |
+| Picogram ([Github](https://github.com/MissDove/Picogram))        | My very own Instagram!                                                                 | Ruby, Ruby on Rails, HTML/CSS                                               | RSpec, Capybara            |
+| gifsearch ([Github](https://github.com/MissDove/gif-search))     | Web app for searching gifs.                                                            | React, HTML/CSS                                                             | ToBeTested                 |
+| PickABook ([Github](https://github.com/MissDove/pick_a_book_v2)) | Final group project at Makers Academy to create a web app for swapping books.          | Elixir, Phoenix, React                                                      | ExUnit, Enzyme, Jest       |
 
 ## SKILLS
 
@@ -48,9 +48,6 @@ My design philosophy in regards to problem-solving is clean code, 'less is more'
 
 During my job at Doosan Babcock, I had to cooperate with many engineers and communicate with the Client on a daily basis. I have really enjoyed it and I consider myself to be an empathetic team member.
 
-
-
-
 ## EDUCATION
 
 #### Makers Academy (December 2017 to March 2018)
@@ -62,7 +59,6 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 - RSpec
 - Capybara
 - Sinatra
-
 
 #### Kingston University (October 2011 - September 2013)
 
@@ -88,23 +84,25 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 
 ## EXPERIENCE
 
-**Cromocon** London (December 2016 - November 2017) *Designer & Technical Advisor*  
+**The Telegraph** London (April 2018 - present) _Front-End Software Developer_
 
-**Doosan Babcock** Bazan Oil Refinery, Haifa, Israel (July 2016 - September 2016) *Project Engineer*
+**Cromocon** London (December 2016 - November 2017) _Designer & Technical Advisor_
 
-**Doosan Babcock** Provence Power Station, Gardanne, France (May 2016 - June 2016) *Project Engineer*
+**Doosan Babcock** Bazan Oil Refinery, Haifa, Israel (July 2016 - September 2016) _Project Engineer_
 
-**Doosan Babcock** Provence Power Station, Gardanne, France (August 2014 - Feb 2016) *Project Engineer*
+**Doosan Babcock** Provence Power Station, Gardanne, France (May 2016 - June 2016) _Project Engineer_
 
-**Doosan Babcock** Drax Power Station, UK (June 2014 - August 2014) *Project Engineer*
+**Doosan Babcock** Provence Power Station, Gardanne, France (August 2014 - Feb 2016) _Project Engineer_
 
-**Doosan Babcock** Grangemouth, UK (February 2014 - May 2014) *Technical Translator*
+**Doosan Babcock** Drax Power Station, UK (June 2014 - August 2014) _Project Engineer_
 
-**Cromocon** London (October 2012 - February 2014) *Designer*
+**Doosan Babcock** Grangemouth, UK (February 2014 - May 2014) _Technical Translator_
 
-**Kingston University Design Research Centre** (October 2011 - January 2012) *Research Assistant*
+**Cromocon** London (October 2012 - February 2014) _Designer_
 
-**Age Concern** Raleigh House, New Malden (October 2011 - December 2011) *Volunteer*
+**Kingston University Design Research Centre** (October 2011 - January 2012) _Research Assistant_
+
+**Age Concern** Raleigh House, New Malden (October 2011 - December 2011) _Volunteer_
 
 ## INTERESTS
 
@@ -115,6 +113,7 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 - Cinema - I love watching films
 
 ## NETWORKS
+
 <p align="center">
 
 <a href="https://twitter.com/Go_Aga">
