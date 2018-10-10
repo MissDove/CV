@@ -2,7 +2,9 @@
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
 
-I am a female Front-End Developer currently working at The Telegraph and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018.. During the course, I had a chance to immerse myself fully into the world of coding.
+I am a female Front-End Developer currently working at The Telegraph and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018. During the course, I had a chance to immerse myself fully into the world of coding.
+
+ABOUT ME:
 
 Since I was at school, I have always enjoyed mathematics and sciences. At the same time I liked drawing and being creative. I have chosen to study BSc(Hons) Engineering Product Design at London South Bank University, as it was a perfect course for me to combine all of those interests. After graduating from LSBU, I progressed to MA Design: Product & Space at Kingston University, where I further developed my portfolio.
 
