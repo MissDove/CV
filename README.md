@@ -1,4 +1,4 @@
-## Agata Golebiewska
+## Agata Jones (née Golebiewska)
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
 
