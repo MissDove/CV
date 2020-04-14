@@ -1,6 +1,6 @@
 ## Agata Jones
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
+[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
 
 I am a female Front-End Developer currently working at Wayhome (formerly known as Unmortgage) and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018. During the course, I had a chance to immerse myself fully into the world of coding.
 
