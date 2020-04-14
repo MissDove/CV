@@ -1,8 +1,8 @@
-## Agata Jones (née Golebiewska)
+## Agata Jones
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
 
-I am a female Front-End Developer currently working at The Telegraph and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018. During the course, I had a chance to immerse myself fully into the world of coding.
+I am a female Front-End Developer currently working at Wayhome (formerly known as Unmortgage) and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018. During the course, I had a chance to immerse myself fully into the world of coding.
 
 ABOUT ME:
 
@@ -13,16 +13,6 @@ Following my graduation from Kingston University, I worked for Doosan Babcock, a
 For over two years, I have worked in different world locations (UK, France, Israel), where I have been managing and planning parts of large mechanical projects. I absolutely enjoyed working in big teams of people with different skills and knowledge, however it has involved being away from home for extended periods of time.
 
 Throughout my two degrees, I have acquired an array of design skills and as the world of product design is shifting rapidly towards service and interaction design, I am making my personal shift into the world of coding. I am hoping to make a difference by developing and designing solutions which will help improve people's lives.
-
-## PROJECTS
-
-| Project                                                          | Summary                                                                                | Technologies                                                                | Testing                    |
-| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------- |
-| Vapor B'n'B ([Github](https://github.com/edpe/vapor-bnb))        | Group project to recreate AirBnb website, this time with VaporWave theme.              | Ruby, HTML/CSS, Datamapper, PostgreSQL, Sinatra, Selenium-Webdriver, Bcrypt | RSpec, Capybara, Coveralls |
-| Notepad ([Github](https://github.com/lewmoore/notepad))          | Notepad application written and TDD'd in OO Javascript. Created own testing framework. | JavaScript, HTML/CSS                                                        | Created testing framework  |
-| Picogram ([Github](https://github.com/MissDove/Picogram))        | My very own Instagram!                                                                 | Ruby, Ruby on Rails, HTML/CSS                                               | RSpec, Capybara            |
-| gifsearch ([Github](https://github.com/MissDove/gif-search))     | Web app for searching gifs.                                                            | React, HTML/CSS                                                             | ToBeTested                 |
-| PickABook ([Github](https://github.com/MissDove/pick_a_book_v2)) | Final group project at Makers Academy to create a web app for swapping books.          | Elixir, Phoenix, React                                                      | ExUnit, Enzyme, Jest       |
 
 ## SKILLS
 
@@ -86,7 +76,9 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 
 ## EXPERIENCE
 
-**The Telegraph** London (April 2018 - present) _Front-End Software Developer_
+**Wayhome (formerly Unmortgage)** London (January 2019 - present) _Front-End Software Developer_
+
+**The Telegraph** London (April 2018 - December 2018) _Software Engineer_
 
 **Cromocon** London (December 2016 - November 2017) _Designer & Technical Advisor_
 
