@@ -54,9 +54,7 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 
 **Doosan Babcock** Bazan Oil Refinery, Haifa, Israel (July 2016 - September 2016) _Project Engineer_
 
-**Doosan Babcock** Provence Power Station, Gardanne, France (May 2016 - June 2016) _Project Engineer_
-
-**Doosan Babcock** Provence Power Station, Gardanne, France (August 2014 - Feb 2016) _Project Engineer_
+**Doosan Babcock** Provence Power Station, Gardanne, France (August 2014 - June 2016) _Project Engineer_
 
 **Doosan Babcock** Drax Power Station, UK (June 2014 - August 2014) _Project Engineer_
 
