@@ -2,7 +2,7 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
 
-I am a female Front-End Developer currently working at Wayhome (formerly known as Unmortgage) and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018. During the course, I had a chance to immerse myself fully into the world of coding.
+I am a female Frontend Engineer currently working at Wayhome and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018. During the course, I had a chance to immerse myself fully into the world of coding.
 
 ABOUT ME:
 
@@ -76,7 +76,9 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 
 ## EXPERIENCE
 
-**Wayhome (formerly Unmortgage)** London (January 2019 - present) _Front-End Software Developer_
+**Wayhome** London (January 2021 - present) _Frontend Engineer_
+
+**Wayhome** London (January 2019 - December 2020) _Junior Frontend Engineer_
 
 **The Telegraph** London (April 2018 - December 2018) _Software Engineer_
 
@@ -110,10 +112,7 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 
 <p align="center">
 
-<a href="https://twitter.com/Go_Aga">
-<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
-
-<a href="https://www.linkedin.com/in/agata-golebiewska-0995951a/">
+<a href="https://www.linkedin.com/in/agatajones/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 </p>
