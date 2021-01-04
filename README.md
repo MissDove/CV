@@ -1,6 +1,6 @@
 ## Agata Jones
 
-[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [NETWORKS](#networks)
+[SKILLS](#skills) | [EXPERIENCE](#experience)| [EDUCATION](#education) | [INTERESTS](#interests) | [NETWORKS](#networks)
 
 I am a female Frontend Engineer currently working at Wayhome and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018. During the course, I had a chance to immerse myself fully into the world of coding.
 
@@ -39,6 +39,32 @@ My design philosophy in regards to problem-solving is clean code, 'less is more'
 #### Team-Player
 
 During my job at Doosan Babcock, I had to cooperate with many engineers and communicate with the Client on a daily basis. I have really enjoyed it and I consider myself to be an empathetic team member.
+
+## EXPERIENCE
+
+**Wayhome** London (January 2021 - present) _Frontend Engineer_
+
+**Wayhome** London (January 2019 - December 2020) _Junior Frontend Engineer_
+
+**The Telegraph** London (April 2018 - December 2018) _Software Engineer_
+
+**Cromocon** London (December 2016 - November 2017) _Designer & Technical Advisor_
+
+**Doosan Babcock** Bazan Oil Refinery, Haifa, Israel (July 2016 - September 2016) _Project Engineer_
+
+**Doosan Babcock** Provence Power Station, Gardanne, France (May 2016 - June 2016) _Project Engineer_
+
+**Doosan Babcock** Provence Power Station, Gardanne, France (August 2014 - Feb 2016) _Project Engineer_
+
+**Doosan Babcock** Drax Power Station, UK (June 2014 - August 2014) _Project Engineer_
+
+**Doosan Babcock** Grangemouth, UK (February 2014 - May 2014) _Technical Translator_
+
+**Cromocon** London (October 2012 - February 2014) _Designer_
+
+**Kingston University Design Research Centre** (October 2011 - January 2012) _Research Assistant_
+
+**Age Concern** Raleigh House, New Malden (October 2011 - December 2011) _Volunteer_
 
 ## EDUCATION
 
@@ -82,32 +108,6 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
   Introductory Mathematics, Introduction to Electrical and Electronic Systems, Engineering
   Computing, Engineering Materials, Engineering Science, Digital Electronics, Electrical Fundamentals,
   Professional Studies for Engineers
-
-## EXPERIENCE
-
-**Wayhome** London (January 2021 - present) _Frontend Engineer_
-
-**Wayhome** London (January 2019 - December 2020) _Junior Frontend Engineer_
-
-**The Telegraph** London (April 2018 - December 2018) _Software Engineer_
-
-**Cromocon** London (December 2016 - November 2017) _Designer & Technical Advisor_
-
-**Doosan Babcock** Bazan Oil Refinery, Haifa, Israel (July 2016 - September 2016) _Project Engineer_
-
-**Doosan Babcock** Provence Power Station, Gardanne, France (May 2016 - June 2016) _Project Engineer_
-
-**Doosan Babcock** Provence Power Station, Gardanne, France (August 2014 - Feb 2016) _Project Engineer_
-
-**Doosan Babcock** Drax Power Station, UK (June 2014 - August 2014) _Project Engineer_
-
-**Doosan Babcock** Grangemouth, UK (February 2014 - May 2014) _Technical Translator_
-
-**Cromocon** London (October 2012 - February 2014) _Designer_
-
-**Kingston University Design Research Centre** (October 2011 - January 2012) _Research Assistant_
-
-**Age Concern** Raleigh House, New Malden (October 2011 - December 2011) _Volunteer_
 
 ## INTERESTS
 
