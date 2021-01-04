@@ -42,6 +42,15 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 
 ## EDUCATION
 
+#### React GraphQL Academy (February 2020)
+
+- Thinking in React, Modern JavaScript, Routing & Data Fetching
+- Forms, Authentication, and Hooks
+- Redux Fundamentals, deployment to production
+- Advanced React patterns and performance
+- Styling in React and Design Systems
+- Real-World Testing in React
+
 #### Makers Academy (December 2017 to March 2018)
 
 - Collaboration through pair programming
