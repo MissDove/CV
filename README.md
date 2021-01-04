@@ -1,6 +1,6 @@
 ## Agata Jones
 
-[SKILLS](#skills) | [EXPERIENCE](#experience)| [EDUCATION](#education) | [INTERESTS](#interests) | [NETWORKS](#networks)
+[SKILLS](#skills) | [EXPERIENCE](#experience) | [EDUCATION](#education) | [INTERESTS](#interests) | [NETWORKS](#networks)
 
 I am a female Frontend Engineer currently working at Wayhome and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018. During the course, I had a chance to immerse myself fully into the world of coding.
 
@@ -13,6 +13,7 @@ Following my graduation from Kingston University, I worked for Doosan Babcock, a
 For over two years, I have worked in different world locations (UK, France, Israel), where I have been managing and planning parts of large mechanical projects. I absolutely enjoyed working in big teams of people with different skills and knowledge, however it has involved being away from home for extended periods of time.
 
 Throughout my two degrees, I have acquired an array of design skills and as the world of product design is shifting rapidly towards service and interaction design, I am making my personal shift into the world of coding. I am hoping to make a difference by developing and designing solutions which will help improve people's lives.
+
 
 ## SKILLS
 
@@ -40,6 +41,7 @@ My design philosophy in regards to problem-solving is clean code, 'less is more'
 
 During my job at Doosan Babcock, I had to cooperate with many engineers and communicate with the Client on a daily basis. I have really enjoyed it and I consider myself to be an empathetic team member.
 
+
 ## EXPERIENCE
 
 **Wayhome** London (January 2021 - present) _Frontend Engineer_
@@ -65,6 +67,7 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 **Kingston University Design Research Centre** (October 2011 - January 2012) _Research Assistant_
 
 **Age Concern** Raleigh House, New Malden (October 2011 - December 2011) _Volunteer_
+
 
 ## EDUCATION
 
@@ -108,6 +111,7 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
   Introductory Mathematics, Introduction to Electrical and Electronic Systems, Engineering
   Computing, Engineering Materials, Engineering Science, Digital Electronics, Electrical Fundamentals,
   Professional Studies for Engineers
+  
 
 ## INTERESTS
 
@@ -116,6 +120,7 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 - Walking/Hiking - whenever possible as long as it is outside
 - Love reading - I own too many books
 - Cinema - I love watching films
+
 
 ## NETWORKS
 
