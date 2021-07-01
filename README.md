@@ -44,7 +44,9 @@ During my job at Doosan Babcock, I had to cooperate with many engineers and comm
 
 ## EXPERIENCE
 
-**Wayhome** London (January 2021 - present) _Frontend Engineer_
+**Trainline** London (June 2021 - present) _Web Engineer_
+
+**Wayhome** London (January 2021 - May 2021) _Frontend Engineer_
 
 **Wayhome** London (January 2019 - December 2020) _Junior Frontend Engineer_
 
