@@ -2,7 +2,7 @@
 
 [SKILLS](#skills) | [EXPERIENCE](#experience) | [EDUCATION](#education) | [INTERESTS](#interests) | [NETWORKS](#networks)
 
-I am a female Web Engineer currently working at Trainline and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018. During the course, I had a chance to immerse myself fully into the world of coding.
+I am a Web Engineer currently working at Trainline, and I had an amazing opportunity to change my career through Makers' 16-week programming course and graduate from it in March 2018. During the course, I had a chance to immerse myself fully into the world of coding.
 
 ABOUT ME:
 
